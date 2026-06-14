@@ -4,75 +4,59 @@ An open-source framework for inventory control, internal audits, SOP management,
 
 ---
 
-## Features
+## Modules
+
+- Inventory Audit
+- Asset Audit
+- Cash Audit
+- Mystery Audit
+- CCTV Audit
+- Warehouse Audit
+- SOPs
+- Templates
+- Documentation
+
+---
+
+## Key Features
 
 - Inventory Verification
 - Variance Analysis
 - Asset Tracking
-- Cash Audit Controls
-- Mystery Audit Framework
-- CCTV Audit Framework
-- Warehouse Audit Templates
-- Process Evaluation Checklists
-- SOP Management
-- Compliance Monitoring
-
----
-
-## Modules
-
-### Inventory Audit
-Track stock discrepancies and perform variance analysis.
-
-### Asset Audit
-Verify and manage physical assets.
-
-### Cash Audit
-Identify cash leakages and strengthen controls.
-
-### Mystery Audit
-Evaluate customer experience and operational standards.
-
-### CCTV Audit
-Review compliance and operational adherence.
-
-### Process Evaluation
-Assess SOP implementation and identify improvements.
-
----
-
-## Folder Structure
-
-```
-restaurant-audit-framework
-│
-├── Inventory_Audit
-├── Asset_Audit
-├── Cash_Audit
-├── Mystery_Audit
-├── CCTV_Audit
-├── Warehouse_Audit
-├── SOPs
-├── Templates
-└── Documentation
-```
+- Cash Controls
+- Operational Compliance
+- Warehouse Controls
+- Process Evaluation
+- Root Cause Analysis
+- Standardized Reporting
 
 ---
 
 ## Future Roadmap
 
+### Phase 1
+- Audit Templates
+- Checklists
+- SOP Repository
+
+### Phase 2
 - Barcode and QR Code Tracking
-- AI-Based Variance Analysis
 - Power BI Dashboard
 - Automated Exception Reporting
+- AI-Based Variance Analysis
+
+### Phase 3
 - Mobile Application
-- Predictive Inventory Controls
+- Predictive Analytics
+- Machine Learning Controls
 
 ---
 
 ## Contributing
 
-Contributions are welcome. Feel free to open issues and submit pull requests.
+Contributions are welcome.
+
+Please feel free to submit pull requests and suggestions.
 
 ---
 
